@@ -1,0 +1,7 @@
+/__pycache__/
+/pb_scraping/
+/.vscode/
+_test.py
+pbscraper.py
+tpbapi.py
+geckodriver.log
